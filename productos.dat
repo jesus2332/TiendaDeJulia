@@ -1,0 +1,80 @@
+0101, Jabon, 16.90, Higiene, 20, 8, 24
+0102, Chocolate Hershey's, 24.50, Alimentos, 10, 2, 16
+0103, Coca-Cola, 18.95, Alimentos, 10, 2, 16
+0104, Telefono Nokia, 350, Otros, 2, 10, 2
+0105, Papas Lays, 18.50, Alimentos, 15, 5, 25
+0106, Shampoo Pantene, 34.90, Higiene, 25, 8, 30
+0107, Cepillo de dientes, 12.75, Higiene, 30, 10, 40
+0108, Yogurt Danone, 15.50, Alimentos, 12, 4, 18
+0109, Detergente Ace, 22.90, Limpieza, 20, 5, 30
+0110, Atun Dolores, 16.75, Alimentos, 18, 6, 24
+0111, Jabon en polvo Roma, 33.50, Limpieza, 15, 5, 25
+0112, Leche Alpura, 19.95, Alimentos, 8, 2, 12
+0113, Lata de refresco Pepsi, 16.50, Alimentos, 10, 2, 16
+0114, Tostadas de maiz, 12.75, Alimentos, 30, 10, 40
+0115, Gel de baño Dove, 49.90, Higiene, 20, 5, 30
+0116, Limpiador multiusos Pinol, 27.50, Limpieza, 15, 5, 25
+0117, Pluma Bic, 8.50, Otros, 50, 20, 80
+0118, Cereal Kellogg's, 28.50, Alimentos, 10, 2, 16
+0119, Pasta de dientes Colgate, 19.75, Higiene, 25, 8, 30
+0120, Jabon para trastes Axion, 25.50, Limpieza, 20, 5, 30
+0121, Galletas Marías, 8.50, Alimentos, 40, 15, 60
+0122, Crema Nivea, 45.00, Higiene, 15, 5, 25
+0123, Jugo Jumex, 14.50, Alimentos, 12, 4, 18
+0124, Crema dental Sensodyne, 39.90, Higiene, 20, 5, 30
+0125, Jabon para ropa Zote, 18.50, Limpieza, 15, 5, 25
+0126, Mermelada de fresa, 22.50, Alimentos, 10, 2, 16
+0127, Desodorante Axe, 28.75, Higiene, 15, 5, 25
+0128, Servilletas de papel, 10.50, Otros, 30, 10, 40
+0129, Agua mineral Peñafiel, 12.50, Alimentos, 20, 5, 30
+0130, Acondicionador Sedal, 32.50, Higiene, 25, 8, 30
+0131, Bolsas de basura, 28.90, Limpieza, 20, 5, 30
+0132, Galletas Oreo, 14.50, Alimentos, 15, 5, 25
+0133, Crema para peinar Pantene, 36.75, Higiene, 18, 6, 24
+0134, Jugo Del Valle, 16.90, Alimentos, 12, 4, 18
+0135, Insecticida Raid, 24.50, Limpieza, 10, 2, 16
+0136, Chicles Trident, 8.75, Alimentos, 40, 15, 60
+0137, Toallas femeninas Always, 22.50, Higiene, 25, 8, 30
+0138, Limpiador de pisos Fabuloso, 35.90, Limpieza, 15, 5, 25
+0139, Gelatina Jell-O, 12.50, Alimentos, 10, 2, 16
+0140, Enjuague bucal Listerine, 38.50, Higiene, 20, 5, 30
+0141, Jabon para manos Softsoap, 17.75, Higiene, 25, 8, 30
+0142, Limpiavidrios Windex, 28.90, Limpieza, 12, 4, 18
+0143, Aceite para cocinar, 35.50, Alimentos, 8, 2, 12
+0144, Detergente en polvo Ariel, 42.90, Limpieza, 20, 5, 30
+0145, Jabon de tocador Zest, 15.50, Higiene, 30, 10, 40
+0146, Lata de atun Van Camp's, 18.50, Alimentos, 20, 5, 30
+0147, Bolsa de hielo, 12.90, Otros, 10, 2, 16
+0148, Desodorante en barra Lady Speed Stick, 24.75, Higiene, 20, 5, 30
+0149, Papel higiénico Cottonelle, 27.50, Higiene, 15, 5, 25
+0150, Té Lipton, 18.90, Alimentos, 10, 2, 16
+0151, Jabon en polvo Foca, 29.90, Limpieza, 15, 5, 25
+0152, Gel para cabello Got2b, 48.50, Higiene, 10, 2, 16
+0153, Refresco Squirt, 16.50, Alimentos, 12, 4, 18
+0154, Detergente líquido Blanca Nieves, 22.50, Limpieza, 25, 8, 30
+0155, Cepillo para cabello, 19.90, Higiene, 30, 10, 40
+0156, Aceitunas La Costeña, 28.90, Alimentos, 10, 2, 16
+0157, Champú TRESemmé, 44.50, Higiene, 20, 5, 30
+0158, Limpiador de baños Clorox, 32.90, Limpieza, 15, 5, 25
+0159, Refresco Fanta, 16.50, Alimentos, 12, 4, 18
+0160, Harina de trigo, 20.90, Alimentos, 8, 2, 12
+0161, Jabon en polvo Roma, 27.50, Limpieza, 20, 5, 30
+0162, Pasta dental Colgate, 21.50, Higiene, 25, 8, 30
+0163, Desinfectante en aerosol Lysol, 38.90, Limpieza, 10, 2, 16
+0164, Atún en aceite de soya, 22.50, Alimentos, 20, 5, 30
+0165, Shampoo para bebé Johnson's, 32.75, Higiene, 15, 5, 25
+0166, Limpiador multiusos Mr. Clean, 29.90, Limpieza, 15, 5, 25
+0167, Gelatina Royal, 11.50, Alimentos, 10, 2, 16
+0168, Jabon para ropa Zote, 16.50, Limpieza, 25, 8, 30
+0169, Papas Pringles, 28.50, Alimentos, 12, 4, 18
+0170, Pañales Huggies, 45.90, Higiene, 15, 5, 25
+0171, Limpiador de pisos Pine-Sol, 37.50, Limpieza, 10, 2, 16
+0172, Leche condensada La Lechera, 22.90, Alimentos, 15, 5, 25
+0173, Enjuague bucal Colgate Plax, 29.90, Higiene, 20, 5, 30
+0174, Limpiador de vidrios y espejos Glass Plus, 26.75, Limpieza, 12, 4, 18
+0175, Chocolates Ferrero Rocher, 68.50, Alimentos, 10, 2, 16
+0176, Esponjas Scotch-Brite, 19.90, Limpieza, 20, 5, 30
+0177, Acondicionador para bebé Johnson's, 34.90, Higiene, 15, 5, 25
+0178, Refresco Manzanita Sol, 16.50, Alimentos, 12, 4, 18
+0179, Cloro líquido Cloralex, 24.90, Limpieza, 15, 5, 25
+0180, Arroz, 23.90, Alimentos, 10, 2, 16
